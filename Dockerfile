@@ -1,0 +1,1 @@
+FROM ttalvitie/browservice:latest
