@@ -1,1 +1,1 @@
-FROM ich777/docker-browservice:latest
+FROM ttalvitie/browservice:v0.9.1
